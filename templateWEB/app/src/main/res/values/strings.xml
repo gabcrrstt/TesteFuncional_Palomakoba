@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Busca CEP</string>
+    <string name="endere_o">Endereço</string>
+    <string name="cep">CEP</string>
+</resources>
